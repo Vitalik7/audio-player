@@ -1,4 +1,4 @@
 # Demo
 
-![demo gif](https://github.com/Vitalik7/audio-player/blob/main/demo.gif "Demo GIF")
+<img src="demo.gif" width="250" height="500"/>
 
